@@ -14,5 +14,4 @@ export class CepService {
       `https://viacep.com.br/ws/${cep}/json/`
     );
   }
-
 }
